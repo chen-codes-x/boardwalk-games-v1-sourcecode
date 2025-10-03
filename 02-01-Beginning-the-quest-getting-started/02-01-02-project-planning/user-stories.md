@@ -97,3 +97,16 @@ Acceptance Criteria
 Tasks
 
 - Integrate the newsletter sign-up form into the website footer.
+
+## User Story 8:
+
+- User Story: As a prospective customer, I want to browse through a range of games available in the shop to help me deceide which one to purchase.  
+
+  Acceptance Criteria
+
+- The website includes a dedicated game library where customers can browse through a range of games.
+- The game library is visible and easy to navigate.
+
+  Tasks
+
+- Create a Game Library page, which shows four new games, and four old favourites to show customers a range of games available in the shop.
